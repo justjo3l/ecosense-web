@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  padding: 1rem;
+  box-sizing: border-box;
+}
